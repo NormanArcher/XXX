@@ -1,0 +1,121 @@
+{
+  "id": "2361114",
+  "name": "fram",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6925981",
+      "name": "reddit",
+      "font_class": "reddit",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "8556909",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "12313474",
+      "name": "you-tube",
+      "font_class": "you-tube",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "13334940",
+      "name": "medium",
+      "font_class": "medium",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "15855819",
+      "name": "更多",
+      "font_class": "more",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "17294816",
+      "name": "metamask",
+      "font_class": "metamask",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3011969",
+      "name": "中国国旗",
+      "font_class": "china-c",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10043525",
+      "name": "韩国",
+      "font_class": "SouthKorea-c",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "15875737",
+      "name": "美国国旗",
+      "font_class": "UnitedStates-c",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9545551",
+      "name": "连接",
+      "font_class": "connect",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "13076582",
+      "name": "通用-微信",
+      "font_class": "weixin1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "12483133",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "15086247",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7696680",
+      "name": "中国国旗",
+      "font_class": "china",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18547973",
+      "name": "韩国",
+      "font_class": "SouthKorea",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11584470",
+      "name": "美国国旗",
+      "font_class": "UnitedStates",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

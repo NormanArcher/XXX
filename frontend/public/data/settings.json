@@ -1,0 +1,51 @@
+{
+  "appName": "XFarmer",
+  "contracts": {
+  },
+  "networkVersion": 128,
+  "networkUrl": "https://http-mainnet-node.huobichain.com",
+  "rewardCoin": "XF",
+  "valueUnit": "USDT",
+  "refreshInterval": 10000,
+  "features": {
+    "home": true,
+    "fram": true,
+    "admin": false,
+    "lineChart": false,
+    "countdown": false,
+    "totalSupply": false
+  },
+  "language":[{
+    "name": "en",
+    "label": "English",
+    "class": "UnitedStates",
+    "hidden": false
+  },{
+    "name": "ko",
+    "label": "한국어",
+    "class": "SouthKorea",
+    "hidden": true
+  },{
+    "name": "zh",
+    "label": "中文",
+    "class": "China",
+    "hidden": false
+  }],
+  "rewardAddress": "0xE0fE25EeFCfcadDEF844fe30b8Be1d68ac6B7aF3",
+  "usdtAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+  "tradeAddress": "0x79b1F2AA77F481805b258C7bC58F0F2bF32E151f",
+  "homeUrl": "",
+  "exchangeUrl": "https://ht.mdex.com/#/swap?inputCurrency=${inputCurrency}&outputCurrency=${outputCurrency}",
+  "addLiquidityUrl": "https://ht.mdex.com/#/add/${inputCurrency}/${outputCurrency}",
+  "ruleUrl": "https://www.yuque.com/xfarmer/az7t7s/dh23p0",
+  "addressUrl": "",
+  "reportUrlCN": "/data/report-cn.pdf",
+  "reportUrlEN": "/data/report-en.pdf",
+  "docUrl": "https://www.yuque.com/xfarmer/az7t7s",
+  "telegramUrl": "https://t.me/X_Farmer",
+  "twitterUrl": "https://twitter.com/@xFarmer9",
+  "githubUrl": "https://github.com/xFarmerDex",
+  "redditUrl": "https://www.reddit.com/user/xFarmerTeam/",
+  "downloadFarmerUrl": "",
+  "heco": "https://hecoinfo.com/address/"
+}

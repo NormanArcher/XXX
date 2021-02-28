@@ -1,0 +1,74 @@
+@import './element-variables.scss';
+@import './variables.scss';
+@import './mixin.scss';
+@import './transition.scss';
+@import './element-ui.scss';
+@import './sidebar.scss';
+
+.light-btn {
+  background-color: $--light-background-color !important;
+  color: $--color-primary !important;
+  border: 0.125rem solid $--color-primary !important;
+  box-shadow: $--btn-box-shadow;
+}
+.light-btn.is-circle{
+  width: 38.8px !important;
+  height: 38.8px !important;
+}
+.light-btn:active {
+  color: $--color-primary !important;
+  opacity: 0.8;
+}
+.light-btn-noborder {
+  background-color: $--light-background-color !important;
+  border-color: $--light-background-color !important;
+  color: $--color-primary !important;
+  box-shadow: $--btn-box-shadow; 
+}
+.light-btn-noborder.is-circle{
+  width: 38.8px !important;
+  height: 38.8px !important;
+}
+.light-btn-noborder:active {
+  color: $--color-primary !important;
+  opacity: 0.8;
+}
+.dark-btn {
+  background-color: $--dark-background-color !important;
+  color: #FFFFFF !important;
+  border: 0.125rem solid $--color-primary !important;
+  box-shadow: $--btn-box-shadow;
+}
+.dark-btn.is-circle{
+  width: 38.8px !important;
+  height: 38.8px !important;
+}
+.dark-btn:active {
+  color: $--color-primary !important;
+  opacity: 0.8;
+}
+.dark-btn-noborder {
+  background-color: $--dark-background-color !important;
+  border-color: $--dark-background-color !important;
+  color: #FFFFFF !important;
+  box-shadow: $--btn-box-shadow;
+}
+.dark-btn-noborder.is-circle{
+  width: 38.8px !important;
+  height: 38.8px !important;
+}
+.dark-btn-noborder:active {
+  color: $--color-primary !important;
+  opacity: 0.8;
+}
+
+.mobile {
+  .dark-btn.is-circle{
+    width: 36px !important;
+    height: 36px !important;
+  }
+  .dark-btn-noborder.is-circle{
+    width: 36px !important;
+    height: 36px !important;
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "appName": "XFarmer",
+  "contracts": {
+  },
+  "networkVersion": 128,
+  "networkUrl": "https://http-mainnet-node.huobichain.com",
+  "rewardCoin": "XF",
+  "valueUnit": "USDT",
+  "features": {
+    "home": true,
+    "fram": true,
+    "admin": true
+  },
+  "language":[{
+    "name": "en",
+    "label": "English",
+    "class": "UnitedStates",
+    "hidden": false
+  },{
+    "name": "ko",
+    "label": "한국어",
+    "class": "SouthKorea",
+    "hidden": true
+  },{
+    "name": "zh",
+    "label": "中文",
+    "class": "China",
+    "hidden": false
+  }],
+  "rewardAddress": "0x9ede2df15deeee26a916b9b93ea7d9363d7531d7",
+  "usdtAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+  "tradeAddress": "0x72ddaa980bf51b633bb7beacee1641bba59db11c"
+}
